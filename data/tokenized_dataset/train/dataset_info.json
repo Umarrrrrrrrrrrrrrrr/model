@@ -3,15 +3,15 @@
   "citation": "",
   "config_name": "default",
   "dataset_name": "text",
-  "dataset_size": 176,
+  "dataset_size": 465,
   "description": "",
   "download_checksums": {
     "D:/FYP/model/data/train.txt": {
-      "num_bytes": 168,
+      "num_bytes": 447,
       "checksum": null
     }
   },
-  "download_size": 168,
+  "download_size": 447,
   "features": {
     "input_ids": {
       "feature": {
@@ -30,12 +30,12 @@
   },
   "homepage": "",
   "license": "",
-  "size_in_bytes": 344,
+  "size_in_bytes": 912,
   "splits": {
     "train": {
       "name": "train",
-      "num_bytes": 176,
-      "num_examples": 4,
+      "num_bytes": 465,
+      "num_examples": 8,
       "dataset_name": "text"
     }
   },
